@@ -1,0 +1,55 @@
+
+
+
+.hiddem {
+    visibility: hidden;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.section2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
