@@ -5,11 +5,12 @@
     visibility: hidden;
 }
 
+
 .main{
     display: flex;
     flex-direction: column;
-    width: 100%;
-    height: 100vh;
+    width:600px;
+    height: 600px;
     justify-content: center;
     align-items: center;
 
